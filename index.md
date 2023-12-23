@@ -4,7 +4,8 @@
 
 ### EXPERIENCE
 
-[Project 1 Title](/sample_page)
+[YOUTH INDIA FOUNDATION]
+[Database Management & Administrator]
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
