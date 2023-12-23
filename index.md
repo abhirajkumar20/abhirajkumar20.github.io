@@ -7,8 +7,8 @@
 YOUTH INDIA FOUNDATION
 <br>
 [Database Management & Administrator]
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+Exploring new trends such as blockchain databases, graph databases, & the integration of AI/ML in
+database management.
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
