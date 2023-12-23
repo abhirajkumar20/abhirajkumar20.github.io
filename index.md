@@ -12,12 +12,15 @@ Exploring new trends such as blockchain databases, graph databases, & the integr
 database management. Acquiring proficiency in updating and managing spreadsheets and databases, ensuring accuracy and timeliness of data input.
 
 <br><br>
-[Project 2 Title]
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+WondersMind InfoTech Solutions Pvt Ltd., Bengaluru, India
+<br>
+Trainee
+<br>
+Exploring different visualization tools like Tableau, Power BI, Matplotlib and their strengths for specific tasks & current trends in data visualization like augmented reality, virtual reality, 3D visualizations & their impact.
 
----
+<br><br>
+
+
 
 ### Category Name 2
 
