@@ -10,10 +10,9 @@ Database Management & Administrator
 <br>
 Exploring new trends such as blockchain databases, graph databases, & the integration of AI/ML in
 database management. Acquiring proficiency in updating and managing spreadsheets and databases, ensuring accuracy and timeliness of data input.
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
+<br><br>
+[Project 2 Title]
 ---
 [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
