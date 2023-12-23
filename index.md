@@ -4,7 +4,8 @@
 
 ### EXPERIENCE
 
-[YOUTH INDIA FOUNDATION]
+YOUTH INDIA FOUNDATION
+<br>
 [Database Management & Administrator]
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
