@@ -41,7 +41,7 @@ Energy Management System of Solar Plant installed, various field-bus & wireless 
 ### VOLUNTEERING
 
 - **Senior Naval Cadet, NATIONAL CADET CORPS Chennai, India**
-Cadet Captain at 1TN Naval Unit, Fort St. George, Chennai-09. Sep 2021 - Present
+      - Cadet Captain at 1TN Naval Unit, Fort St. George, Chennai-09. Sep 2021 - Present
 
 ◦ Technical Attachments: INS - Valsura, Gujarat. The electrical & electronics training school of Indian Navy. On-Board
 training at ICGS-SHAURYA, INS-ANVESH, INS-TIR & UNITED STATES COAST GUARD Ship -
