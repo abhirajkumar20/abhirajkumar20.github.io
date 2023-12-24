@@ -36,7 +36,7 @@ Energy Management System of Solar Plant installed, various field-bus & wireless 
 - Secured Zonal Rank in SOF National Cyber Olympiad, Sep 2018.
 
 ### TECH STACK 
-    ![Technology Stack] (images/Tech Stack.png "Languages & Frameworks")
+    ![Technology Stack](images/Tech Stack.png "Languages & Frameworks")
 
  
 
