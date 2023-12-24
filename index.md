@@ -27,13 +27,14 @@ Communication involved in-between the Data Collection System & various PLC’s i
 Energy Management System of Solar Plant installed, various field-bus & wireless communication involved.
 
 
-### Category Name 2
+### ACHIEVEMENTS
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- • BEST CADET- SILVER Medalist at Tamilnadu NCC Directorate: IGC-REPUBLIC DAY CAMP, Oct 2023.
+• Winner in the Group Discussion, held in the Univerisity, July 2023.
+• Winner in Technical Public Speaking on Applications of Current Security Trends, held in the University, Sep 2022.
+• Third Runner’s Up at DAV Nationals Games in Kho-Kho held at Ranchi, October 2018.
+• Secured Zonal Rank in SOF National Cyber Olympiad, Sep 2018.
+
 
 ---
 
