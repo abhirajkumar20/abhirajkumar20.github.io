@@ -44,7 +44,7 @@ Energy Management System of Solar Plant installed, various field-bus & wireless 
       - Cadet Captain 
       1TN Naval Unit, Fort St. George, Chennai-09. Sep 2021 - Present
 
-◦ Technical Attachments: INS - Valsura, Gujarat. The electrical & electronics training school of Indian Navy. On-Board
+- Technical Attachments: INS - Valsura, Gujarat. The electrical & electronics training school of Indian Navy. On-Board
 training at ICGS-SHAURYA, INS-ANVESH, INS-TIR & UNITED STATES COAST GUARD Ship -
 Midgett(WMSL-757).
 - Impact: Team Building, Critical Thinking, Character.
