@@ -46,6 +46,7 @@ Energy Management System of Solar Plant installed, various field-bus & wireless 
 </div>
 
 <img src="images/Tech Stack.png" alt="Languages & Frameworks">
+Languages, Frameworks, Tools & Platforms Currently working with
 
 
 ### VOLUNTEERING
