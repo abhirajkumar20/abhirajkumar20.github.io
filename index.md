@@ -29,11 +29,11 @@ Energy Management System of Solar Plant installed, various field-bus & wireless 
 
 ### ACHIEVEMENTS
 
-- • BEST CADET- SILVER Medalist at Tamilnadu NCC Directorate: IGC-REPUBLIC DAY CAMP, Oct 2023.
-- • Winner in the Group Discussion, held in the Univerisity, July 2023.
-- • Winner in Technical Public Speaking on Applications of Current Security Trends, held in the University, Sep 2022.
-- • Third Runner’s Up at DAV Nationals Games in Kho-Kho held at Ranchi, October 2018.
-- • Secured Zonal Rank in SOF National Cyber Olympiad, Sep 2018.
+- BEST CADET- SILVER Medalist at Tamilnadu NCC Directorate: IGC-REPUBLIC DAY CAMP, Oct 2023.
+- Winner in the Group Discussion, held in the Univerisity, July 2023.
+- Winner in Technical Public Speaking on Applications of Current Security Trends, held in the University, Sep 2022.
+- Third Runner’s Up at DAV Nationals Games in Kho-Kho held at Ranchi, October 2018.
+- Secured Zonal Rank in SOF National Cyber Olympiad, Sep 2018.
  
 
 ---
