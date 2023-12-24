@@ -20,6 +20,11 @@ Exploring different visualization tools like Tableau, Power BI, Matplotlib and t
 
 <br><br>
 ULTRATECH CEMENT LTD., VIJAYAWADA - BALAJI CEMENT WORKS
+<br>
+Project Intern 
+<br>
+Communication involved in-between the Data Collection System & various PLC’s installed all over the plant. Understood System Architecture of Motor Control Units, PLC’s, & SCADA.
+Energy Management System of Solar Plant installed, various field-bus & wireless communication involved.
 
 
 ### Category Name 2
