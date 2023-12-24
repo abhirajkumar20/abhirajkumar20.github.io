@@ -35,8 +35,18 @@ Energy Management System of Solar Plant installed, various field-bus & wireless 
 - Third Runner’s Up at DAV Nationals Games in Kho-Kho held at Ranchi, October 2018.
 - Secured Zonal Rank in SOF National Cyber Olympiad, Sep 2018.
 
-### TECH STACK 
+### TECH STACK
+<div class="container">
+    <div class="image-container">
+        <img src="image.Tech Stack.png" alt="Languages & Frameworks">
+    </div>
+    <div class="text-container">
+        <p>Languages & Frameworks Currently working with</p>
+    </div>
+</div>
+
 <img src="images/Tech Stack.png" alt="Languages & Frameworks">
+
 
 ### VOLUNTEERING
 
