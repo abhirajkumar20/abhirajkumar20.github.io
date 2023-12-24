@@ -12,7 +12,7 @@ Exploring new trends such as blockchain databases, graph databases, & the integr
 database management. Acquiring proficiency in updating and managing spreadsheets and databases, ensuring accuracy and timeliness of data input.
 
 <br><br>
-WondersMind InfoTech Solutions Pvt Ltd., Bengaluru, India
+WONDERSMIND INFOTECH SOLUTIONS PVT LTD, BENGALURU
 <br>
 Trainee
 <br>
