@@ -46,7 +46,7 @@ Energy Management System of Solar Plant installed, various field-bus & wireless 
 ◦ Technical Attachments: INS - Valsura, Gujarat. The electrical & electronics training school of Indian Navy. On-Board
 training at ICGS-SHAURYA, INS-ANVESH, INS-TIR & UNITED STATES COAST GUARD Ship -
 Midgett(WMSL-757).
-◦ Impact: Team Building, Critical Thinking, Character.
+- ◦ Impact: Team Building, Critical Thinking, Character.
 
 
  
