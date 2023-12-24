@@ -4,9 +4,9 @@
 
 ### EXPERIENCE
 
-YOUTH INDIA FOUNDATION
+**YOUTH INDIA FOUNDATION**
 <br>
-Database Management & Administrator
+**Database Management & Administrator**
 <br>
 Exploring new trends such as blockchain databases, graph databases, & the integration of AI/ML in
 database management. Acquiring proficiency in updating and managing spreadsheets and databases, ensuring accuracy and timeliness of data input.
