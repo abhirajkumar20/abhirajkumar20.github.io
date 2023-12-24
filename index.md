@@ -6,7 +6,7 @@
 
 **YOUTH INDIA FOUNDATION**
 <br>
-**Database Management & Administrator**
+_Database Management & Administrator_ Remote
 <br>
 Exploring new trends such as blockchain databases, graph databases, & the integration of AI/ML in
 database management. Acquiring proficiency in updating and managing spreadsheets and databases, ensuring accuracy and timeliness of data input.
@@ -14,17 +14,21 @@ database management. Acquiring proficiency in updating and managing spreadsheets
 <br><br>
 **WONDERSMIND INFOTECH SOLUTIONS PVT LTD, BENGALURU**
 <br>
-***Trainee***
+_Trainee_ On-Site
 <br>
 Exploring different visualization tools like Tableau, Power BI, Matplotlib and their strengths for specific tasks & current trends in data visualization like augmented reality, virtual reality, 3D visualizations & their impact.
 
 <br><br>
 **ULTRATECH CEMENT LTD., VIJAYAWADA - BALAJI CEMENT WORKS**
 <br>
-***Project Intern***
+_Project Intern_ On-Site
 <br>
 Communication involved in-between the Data Collection System & various PLC’s installed all over the plant. Understood System Architecture of Motor Control Units, PLC’s, & SCADA.
 Energy Management System of Solar Plant installed, various field-bus & wireless communication involved.
+
+<br><br>
+**INDIAN NAVAL SHIP-VALAURA, JAMNAGAR, GUJARAT**
+_Trainee Attachee_ On_Site
 
 
 ### ACHIEVEMENTS
