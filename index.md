@@ -44,9 +44,8 @@ Languages, Frameworks, Tools & Platforms Currently working with
 ### VOLUNTEERING
 
 - **Senior Naval Cadet, NATIONAL CADET CORPS Chennai, India**
-      <p> Cadet Captain 
-      1TN Naval Unit, Fort St. George, Chennai-09. </p>
-
+  Cadet Captain 
+  1TN Naval Unit, Fort St. George, Chennai-09.
 - Technical Attachments: INS - Valsura, Gujarat. The electrical & electronics training school of Indian Navy. On-Board
 training at ICGS-SHAURYA, INS-ANVESH, INS-TIR & UNITED STATES COAST GUARD Ship -
 Midgett(WMSL-757).
