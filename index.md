@@ -37,7 +37,6 @@ Energy Management System of Solar Plant installed, various field-bus & wireless 
 
 ### TECH STACK 
 <img src="images/Tech Stack.png" alt="Languages & Frameworks">
-    ![Technology Stack](images/Tech Stack.png "Languages & Frameworks")
 
  
 
