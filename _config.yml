@@ -9,6 +9,8 @@ description: Undergrad in Electronics & Communication with AI & Data Science at 
   <a href="https://www.linkedin.com/in/abhirajsingh05/"> LinkedIn Profile</a>
   <br>
   <a href="https://www.instagram.com/its_kumarabhi/"> Instagram</a>
+  <br>
+    <a href="https://twitter.com/yougot_abhi"> Twitter Profile</a>
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
