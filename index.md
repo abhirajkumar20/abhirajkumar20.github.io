@@ -14,14 +14,14 @@ database management. Acquiring proficiency in updating and managing spreadsheets
 <br><br>
 **WONDERSMIND INFOTECH SOLUTIONS PVT LTD, BENGALURU**
 <br>
-**Trainee**
+***Trainee***
 <br>
 Exploring different visualization tools like Tableau, Power BI, Matplotlib and their strengths for specific tasks & current trends in data visualization like augmented reality, virtual reality, 3D visualizations & their impact.
 
 <br><br>
 **ULTRATECH CEMENT LTD., VIJAYAWADA - BALAJI CEMENT WORKS**
 <br>
-**Project Intern**
+***Project Intern***
 <br>
 Communication involved in-between the Data Collection System & various PLC’s installed all over the plant. Understood System Architecture of Motor Control Units, PLC’s, & SCADA.
 Energy Management System of Solar Plant installed, various field-bus & wireless communication involved.
