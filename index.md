@@ -19,7 +19,7 @@ _Trainee - On-Site_
 Exploring different visualization tools like Tableau, Power BI, Matplotlib and their strengths for specific tasks & current trends in data visualization like augmented reality, virtual reality, 3D visualizations & their impact.
 
 <br><br>
-**ULTRATECH CEMENT LTD. ADITYA BIRLA GROUP, VIJAYAWADA - **
+**ULTRATECH CEMENT LTD. ADITYA BIRLA GROUP, VIJAYAWADA**
 <br>
 _Project Intern @ BALAJI CEMENT WORKS - On-Site_
 <br>
