@@ -1,4 +1,4 @@
-## Portfolio
+## PORTFOLIO
 
 ---
 
@@ -61,10 +61,13 @@ training at ICGS-SHAURYA, INS-ANVESH, INS-TIR & UNITED STATES COAST GUARD Ship -
 Midgett(WMSL-757).
 - Learnings: Military Operations, Team Building, Critical Thinking.
 
+
 ### SOFT SKILLS
 - Public Speaker
 - Event Management
 - Master of Ceremonies
+
+###
 
 ---
 
