@@ -55,7 +55,8 @@ training at ICGS-SHAURYA, INS-ANVESH, INS-TIR & UNITED STATES COAST GUARD Ship -
 Midgett(WMSL-757).
 - Impact: Team Building, Critical Thinking, Character.
 
-
+### SOFT SKILLS
+- Public Speaking
  
 
 ---
