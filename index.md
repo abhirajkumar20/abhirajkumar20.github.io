@@ -19,9 +19,9 @@ _Trainee - On-Site_
 Exploring different visualization tools like Tableau, Power BI, Matplotlib and their strengths for specific tasks & current trends in data visualization like augmented reality, virtual reality, 3D visualizations & their impact.
 
 <br><br>
-**ULTRATECH CEMENT LTD., VIJAYAWADA - BALAJI CEMENT WORKS**
+**ULTRATECH CEMENT LTD. ADITYA BIRLA GROUP, VIJAYAWADA - **
 <br>
-_Project Intern - On-Site_
+_Project Intern @ BALAJI CEMENT WORKS - On-Site_
 <br>
 Communication involved in-between the Data Collection System & various PLC’s installed all over the plant. Understood System Architecture of Motor Control Units, PLC’s, & SCADA.
 Energy Management System of Solar Plant installed, various field-bus & wireless communication involved.
@@ -53,9 +53,9 @@ Languages, Frameworks, Tools & Platforms Currently working with
 
 ### VOLUNTEERING
 
-- **Senior Naval Cadet, NATIONAL CADET CORPS Chennai, India**
+**Senior Naval Cadet, NATIONAL CADET CORPS Chennai, India**
 <br>
-  _Cadet Captain @ 1TN Naval Unit, Fort St. George, Chennai-09._
+  _Cadet Captain @ 1TN Naval Unit, Fort St. George, Chennai._
 - Technical Attachments: INS - Valsura, Gujarat. The electrical & electronics training school of Indian Navy. On-Board
 training at ICGS-SHAURYA, INS-ANVESH, INS-TIR & UNITED STATES COAST GUARD Ship -
 Midgett(WMSL-757).
