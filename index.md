@@ -30,9 +30,10 @@ Energy Management System of Solar Plant installed, various field-bus & wireless 
 **INDIAN NAVAL SHIP-VALAURA, JAMNAGAR, GUJARAT**
 <br>
 _Training Attache at the Electrical school of the Indian Navy_
-◦ Discussion: The operation, maintenance repairs of specific Electrical Weapons, Sensors, Gyro & Nav-aids,
+<br>
+The operation, maintenance repairs of specific Electrical Weapons, Sensors, Gyro & Nav-aids,
 Communication, Command & Control and Data Distribution equipment fitted on board Naval surface platforms.
-◦ Learnt Functioning of: Radar, Microwave, Electronic Warfare, Signal Processing, SONAR, Communication, Fiber
+Learnt Functioning of Radar, Microwave, Electronic Warfare, Signal Processing, SONAR, Communication, Fiber
 Optics.
 
 
