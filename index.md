@@ -6,7 +6,7 @@
 
 **YOUTH INDIA FOUNDATION**
 <br>
-_Database Management & Administrator_ Remote
+_Database Management & Administrator - Remote_
 <br>
 Exploring new trends such as blockchain databases, graph databases, & the integration of AI/ML in
 database management. Acquiring proficiency in updating and managing spreadsheets and databases, ensuring accuracy and timeliness of data input.
@@ -14,14 +14,14 @@ database management. Acquiring proficiency in updating and managing spreadsheets
 <br><br>
 **WONDERSMIND INFOTECH SOLUTIONS PVT LTD, BENGALURU**
 <br>
-_Trainee_ On-Site
+_Trainee - On-Site_
 <br>
 Exploring different visualization tools like Tableau, Power BI, Matplotlib and their strengths for specific tasks & current trends in data visualization like augmented reality, virtual reality, 3D visualizations & their impact.
 
 <br><br>
 **ULTRATECH CEMENT LTD., VIJAYAWADA - BALAJI CEMENT WORKS**
 <br>
-_Project Intern_ On-Site
+_Project Intern - On-Site_
 <br>
 Communication involved in-between the Data Collection System & various PLC’s installed all over the plant. Understood System Architecture of Motor Control Units, PLC’s, & SCADA.
 Energy Management System of Solar Plant installed, various field-bus & wireless communication involved.
@@ -56,7 +56,8 @@ Midgett(WMSL-757).
 - Impact: Team Building, Critical Thinking, Character.
 
 ### SOFT SKILLS
-- Public Speaking
+- Public Speaker
+- Event Management
  
 
 ---
