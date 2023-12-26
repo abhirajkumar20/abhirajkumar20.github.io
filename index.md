@@ -59,7 +59,7 @@ Languages, Frameworks, Tools & Platforms Currently working with
 - Technical Attachments: INS - Valsura, Gujarat. The electrical & electronics training school of Indian Navy. On-Board
 training at ICGS-SHAURYA, INS-ANVESH, INS-TIR & UNITED STATES COAST GUARD Ship -
 Midgett(WMSL-757).
-- Impact: Military Operations, Team Building, Critical Thinking, Character.
+- Learnings: Military Operations, Team Building, Critical Thinking.
 
 ### SOFT SKILLS
 - Public Speaker
