@@ -68,7 +68,7 @@ Midgett(WMSL-757).
 - Event Management
 - Master of Ceremonies
 
-###
+### PROJECTS
 
 ---
 
